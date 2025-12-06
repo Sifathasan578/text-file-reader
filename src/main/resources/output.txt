@@ -1,0 +1,6 @@
+[
+{ "numOne": 1.0, "numTwo": 2.0, "operator": "+", "result": 3.0 },
+{ "numOne": 6.0, "numTwo": 2.0, "operator": "/", "result": 3.0 },
+{ "numOne": 10.0, "numTwo": 3.0, "operator": "*", "result": 30.0 },
+{ "numOne": 12.0, "numTwo": 5.0, "operator": "/", "result": 2.4 }
+]
